@@ -58,7 +58,7 @@ print("Всього марок залишилось:", total_remaining)
 apple = 4
 pear = apple + 5
 plumb = apple - 2
-total_tree = apple + pear + plumb
+total = apple + pear + plumb
 print("Всього дерев посадили в саду:", total)
 
 # task 08
