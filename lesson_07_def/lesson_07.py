@@ -189,5 +189,5 @@ print(sum([1, 2, 3, -2, -3, -1]))
 
 words = ["яблуко", "апельсин", "банан", "груша", "слива"]
 # Сортування за довжиною рядків
-sorted_words = sorted(words, key=lambda x: len(x))
+sorted_words = sorted(words, key=len)
 print(sorted_words)
